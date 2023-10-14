@@ -1,0 +1,3 @@
+header .navbar-nav a.active {
+    color: blue !important;
+}
